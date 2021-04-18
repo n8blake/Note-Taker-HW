@@ -25,7 +25,7 @@ If you wish to contribute, open an issue on the GitHub page
 ## Test Instructions
 Testing is done with Jest. Run ```npm run test``` to test
 
-<img src="demos/test_demo.gif" />	
+<img src="demos/tests_demo.gif" />	
 
 ## Questions
 Email [hello@n8blake.com](mailto:hello@n8blake.com)
