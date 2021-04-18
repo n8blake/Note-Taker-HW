@@ -15,7 +15,7 @@ A back-end for a pre-build note taking app
 clone the repo, then run npm install
 
 ## Usage Information
-Run locally using ```node server.js``` or visit the live version [here](https://dashboard.heroku.com/apps/polar-hollows-29717)
+Run locally using ```node server.js``` or visit the live version [here](https://polar-hollows-29717.herokuapp.com)
 
 <img src="demos/notes_demo.gif" />
 
